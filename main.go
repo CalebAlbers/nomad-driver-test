@@ -4,7 +4,7 @@ import (
 	log "github.com/hashicorp/go-hclog"
 
 	// TODO: update the path below to match your own repository
-	"github.com/hashicorp/nomad-skeleton-driver-plugin/hello"
+	"github.com/CalebAlbers/nomad-driver-test/hello"
 
 	"github.com/hashicorp/nomad/plugins"
 )
