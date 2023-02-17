@@ -25,7 +25,7 @@ require (
 	github.com/hashicorp/consul v1.6.2 // indirect
 	github.com/hashicorp/consul-template v0.23.0
 	github.com/hashicorp/go-envparse v0.0.0-20190703193109-150b3a2a4611 // indirect
-	github.com/hashicorp/go-getter v1.4.0 // indirect
+	github.com/hashicorp/go-getter v1.7.0 // indirect
 	github.com/hashicorp/go-hclog v0.10.0
 	github.com/hashicorp/go-plugin v1.0.1
 	github.com/hashicorp/hcl2 v0.0.0-20191002203319-fb75b3253c80 // indirect
