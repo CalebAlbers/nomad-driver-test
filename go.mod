@@ -6,7 +6,6 @@ go 1.12
 require (
 	github.com/LK4D4/joincontext v0.0.0-20171026170139-1724345da6d5 // indirect
 	github.com/NVIDIA/gpu-monitoring-tools v0.0.0-20191126014920-0d8df858cca4 // indirect
-	github.com/Sirupsen/logrus v0.0.0-00010101000000-000000000000 // indirect
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/appc/spec v0.8.11 // indirect
 	github.com/checkpoint-restore/go-criu v0.0.0-20191125063657-fcdcd07065c5 // indirect
@@ -17,7 +16,7 @@ require (
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
 	github.com/docker/cli v0.0.0-20191202230238-13fb276442f5 // indirect
-	github.com/docker/docker v1.13.1 // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
@@ -33,6 +32,8 @@ require (
 	github.com/hashicorp/nomad/api v0.0.0-20191203164002-b31573ae7206 // indirect
 	github.com/mitchellh/go-ps v0.0.0-20190716172923-621e5597135b // indirect
 	github.com/moby/moby v1.13.1 // indirect
+	github.com/moby/sys/mount v0.3.3 // indirect
+	github.com/moby/term v0.0.0-20221205130635-1aeaba878587 // indirect
 	github.com/mrunalp/fileutils v0.0.0-20171103030105-7d4729fb3618 // indirect
 	github.com/opencontainers/runc v1.0.0-rc8.0.20190611121236-6cc515888830 // indirect
 	github.com/opencontainers/selinux v1.3.1 // indirect
@@ -40,9 +41,10 @@ require (
 	github.com/shirou/gopsutil v2.19.11+incompatible // indirect
 	github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
-	github.com/vbatts/tar-split v0.11.1 // indirect
 	github.com/zclconf/go-cty v1.1.1 // indirect
 	go4.org v0.0.0-20191010144846-132d2879e1e9 // indirect
+	golang.org/x/sys v0.7.0 // indirect
+	gotest.tools/v3 v3.4.0 // indirect
 )
 
 // use lower-case sirupsen
